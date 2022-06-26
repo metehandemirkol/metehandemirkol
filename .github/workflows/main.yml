@@ -52,3 +52,11 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          
+        ##Snake eating my contribution  graph
+          
+          ![snake gif](https://github.com/metehandemirkol/metehandemirkol/blob/output/github-contribution-grid-snake.gif)
+          
+          
+          
