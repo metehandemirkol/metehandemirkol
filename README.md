@@ -1,7 +1,7 @@
 
 
 <p align = "center">Hi there 👋
-I'm Metehan Demirkol.I am an GIS Analyst and Developer.I am currently learning Django.<p/>
+I'm Metehan Demirkol.I am an GIS Analyst and Developer.<p/>
 
 
 
